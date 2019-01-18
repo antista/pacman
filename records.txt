@@ -1,0 +1,10 @@
+Player/8530
+Player/8310
+Player/7800
+Player/7390
+Player/6280
+Player/6170
+Player/5750
+Player/5700
+Player/5690
+Player/5130
